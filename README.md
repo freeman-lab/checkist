@@ -13,7 +13,7 @@ pip install checkist
 let's say you have a list of valid arugments
 
 ```python
-valid = [`elf`, `mage`, `knight`]
+valid = ['elf', 'mage', 'knight']
 ```
 
 you can check against it like this
